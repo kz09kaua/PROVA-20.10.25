@@ -5,9 +5,29 @@
         height:8.625rem;
             display: flex;
                 align-items: center;
+
                         
 
 }
+
+.div111{
+    margin-left:23rem;
+        margin-bottom:1rem;
+
+}
+
+.div333{
+border: solid 1px #08A4E2;
+    color: #08A4E2;
+        
+}
+   
+.divbutyom1{
+    width:5rem;
+       
+
+}
+
 
 #imgLogo1{
 margin-left: 18.313rem;
@@ -20,9 +40,9 @@ margin-left: 18.313rem;
 }
 
 #hr1{
-    background-color: black;
-        height: 2px;
-            border: none;
-
+   border-top: 1px solid black; /* Define a cor da linha para preto */
+  height: 1px; /* Define a espessura da linha */
+  background-color: black; /* Preenche a linha com a cor preta */
 }
+
 
