@@ -21,9 +21,66 @@ border: solid 1px #08A4E2;
     color: #08A4E2;
         
 }
+
+.div444{    
+        margin-top:2.5rem;
+               
+}
+
+.div555{
+    border-radius: 10px;
+        width: 81rem;
+            height: 44.75rem;
+
+}
+
+#div666{
+    display: flex;
+        justify-content: center;
+            align-items: center;
+                margin-top: 2.5rem;
+
+}
+
+#div777{
+     display: flex;
+        justify-content: center;
+            align-items: center;
+                margin-top: 6rem;
+
+
+
+}
+
+
+.divcarrosel1{
+    font-size: 1.063rem;
+     margin-left: 2.5rem;
+     margin-top: 2.5rem;
+
+}
+.divcarrosel2{
+    font-size:3rem;
+     margin-left: 2.5rem;
+    
+
+}
+.divcarrosel3{
+    font-size: 19px;
+     margin-left: 2.5rem;
+     
+}
+
+.divimg2{
+    height: 33rem;
+        object-fit: cover;
+        border-radius: 10px;
+         
+
+}
    
 .divbutyom1{
-    width:5rem;
+    
        
 
 }
@@ -44,5 +101,8 @@ margin-left: 18.313rem;
   height: 1px; /* Define a espessura da linha */
   background-color: black; /* Preenche a linha com a cor preta */
 }
+
+
+
 
 
