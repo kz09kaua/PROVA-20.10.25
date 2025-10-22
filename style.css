@@ -46,8 +46,24 @@ border: solid 1px #08A4E2;
      display: flex;
         justify-content: center;
             align-items: center;
-                margin-top: 6rem;
+                margin-top: 6.5rem;
 
+}
+
+#div888{
+    background-color: #1D4E78;
+        width: 82.5rem;
+            height: 47.25rem;
+                margin-top: 5.5rem;
+
+
+}
+
+.div999{
+    background-color: #1D4E78;
+        
+            
+            
 
 
 }
@@ -79,13 +95,6 @@ border: solid 1px #08A4E2;
 
 }
    
-.divbutyom1{
-    
-       
-
-}
-
-
 #imgLogo1{
 margin-left: 18.313rem;
 }
@@ -100,6 +109,35 @@ margin-left: 18.313rem;
    border-top: 1px solid black; /* Define a cor da linha para preto */
   height: 1px; /* Define a espessura da linha */
   background-color: black; /* Preenche a linha com a cor preta */
+}
+
+.certificadoimg{
+    width: 10rem;
+        height: 10rem;
+
+}
+
+#h2carrossel{
+    font-size: 2rem;
+        color: white;
+            margin-left: 2.5rem;
+                
+
+}
+
+#pcarrossel{
+    margin-left: 2.5rem;
+        font-size: 1.1rem;
+            color: white;   
+}
+
+.card111{
+     background-color: #1D4E78;
+        width: 18rem; border: solid 1px white;
+            border-radius: 1.563rem;
+                width: 18.75rem;
+                    height: 32rem;
+        
 }
 
 
