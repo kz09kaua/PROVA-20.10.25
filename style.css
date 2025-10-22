@@ -50,24 +50,33 @@ border: solid 1px #08A4E2;
 
 }
 
-#div888{
-    background-color: #1D4E78;
-        width: 82.5rem;
-            height: 47.25rem;
-                margin-top: 5.5rem;
+.div888 {
+  background-color: #1D4E78;
+  width: 90%; /* em vez de 82.5rem */
+  max-width: 82.5rem; /* ainda limita no desktop */
+  height: auto; /* deixa adaptar */
+  margin: 5.5rem auto; /* centraliza horizontalmente */
+  border-radius: 2rem;
+  display: flex;
+  flex-direction: column; /* conteúdo em coluna */
+  align-items: center; /* centraliza o conteúdo dentro */
+  /* dá um respiro interno */
+}
+
+.div999 {
+  width: 100%; /* ocupa toda a área da div888 */
+  max-width: 76rem;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  margin-left: 4rem; /* remove o deslocamento lateral */
+    }
+
+.div1010{
+     
 
 
 }
-
-.div999{
-    background-color: #1D4E78;
-        
-            
-            
-
-
-}
-
 
 .divcarrosel1{
     font-size: 1.063rem;
@@ -121,6 +130,7 @@ margin-left: 18.313rem;
     font-size: 2rem;
         color: white;
             margin-left: 2.5rem;
+                padding-top: 3rem;
                 
 
 }
@@ -128,7 +138,8 @@ margin-left: 18.313rem;
 #pcarrossel{
     margin-left: 2.5rem;
         font-size: 1.1rem;
-            color: white;   
+            color: white;
+                margin-top: 0.9rem;   
 }
 
 .card111{
@@ -139,6 +150,7 @@ margin-left: 18.313rem;
                     height: 32rem;
         
 }
+
 
 
 
