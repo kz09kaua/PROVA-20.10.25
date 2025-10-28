@@ -54,7 +54,7 @@ border: solid 1px #08A4E2;
   background-color: #1D4E78;
   width: 90%; /* em vez de 82.5rem */
   max-width: 82.5rem; /* ainda limita no desktop */
-  height: auto; /* deixa adaptar */
+  height: 47.25rem; /* deixa adaptar */
   margin: 5.5rem auto; /* centraliza horizontalmente */
   border-radius: 2rem;
   display: flex;
@@ -70,6 +70,7 @@ border: solid 1px #08A4E2;
   display: flex;
   flex-direction: column;
   margin-left: 4rem; /* remove o deslocamento lateral */
+  margin-top: 1.2rem;
     }
 
 .div1010{
@@ -150,6 +151,46 @@ margin-left: 18.313rem;
                     height: 32rem;
         
 }
+
+#plocalizacao{
+    color: #0074BC;
+        font-size: 1.1rem;
+
+}
+
+#h2localizacao{
+    color: #1D4E78;
+        font-size: 3rem;
+
+}
+
+.imglocalizacao1{
+    width: 1.5rem;
+        height: 1.5rem;
+            margin-right: 1.5%;
+
+}
+.imglocalizacao2{
+    width: 1.3rem;
+        height: 1.3rem;
+            margin-left: 7.5%;
+                margin-right: 1.5%;
+
+}
+.imglocalizacao3{
+    width: 1.5rem;
+        height: 1.5rem;
+            margin-right: 1.5%;
+
+}
+
+.letralocalizacao{
+      font-weight: 500;
+
+}
+
+
+
 
 
 
