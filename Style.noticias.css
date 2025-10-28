@@ -1,0 +1,177 @@
+@import url('https://fonts.googleapis.com/css2?family=Arimo:ital,wght@0,400..700;1,400..700&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+#div000{
+    width: 100%;
+        height:8.625rem;
+            display: flex;
+                align-items: center;
+
+                        
+
+}
+
+.div111{
+    margin-left:23rem;
+        margin-bottom:1rem;
+
+}
+
+.div333{
+border: solid 1px #08A4E2;
+    color: #08A4E2;
+        
+}
+
+.div444{
+    margin-top: 5.688rem;
+
+}
+
+.div666{
+background-color: #1E4E78;
+    width: 100%;
+        height: 6.5rem;
+
+}
+
+.div777{
+    width: 30rem;
+        background-color: white;
+
+}
+
+
+
+#imgLogo1{
+margin-left: 18.313rem;
+}
+
+#imglogo2{
+    width:4.688rem;
+            height:4.688rem;
+}
+
+.h2Produtos{
+    font-size: 3rem;    
+        color:white;
+            margin-left: 18.938rem;
+                margin-right: 56.375rem;
+            
+
+}
+#asite{
+color: #DDDDDD;
+    text-decoration: none;
+
+
+}
+
+.btn-orcamento:hover {
+  background-color: #163b5a;
+  color: #f0f0f0;
+  transform: scale(1.05);
+}
+
+#imgfundo{
+    width: 100%;
+        height: 28rem;
+
+
+}
+
+  .img-hover {
+    transition: all 0.3s ease;
+    filter: grayscale(0%);
+  }
+
+  .img-hover:hover {
+    transform: scale(1.15);
+    filter: grayscale(50%);
+    cursor: pointer;
+  }
+
+   .img-zoom {
+    transition: transform 0.3s ease; /* movimento suave */
+  }
+
+  .img-zoom:hover {
+    transform: scale(1.1); /* aumenta 20% */
+    cursor: pointer; /* mostra que é clicável */
+  }
+
+
+  .search-bar {
+  position: relative;
+}
+
+.search-bar input {
+  border: none;
+  border-bottom: 2px solid #1E4E78;
+  border-radius: 0;
+  box-shadow: none;
+  padding-right: 2rem;
+  font-size: 1rem;
+}
+
+.search-bar input:focus {
+  border-color: #1E4E78;
+  box-shadow: none;
+}
+
+.search-bar i {
+  position: absolute;
+  right: 0.5rem;
+  top: 50%;
+  transform: translateY(-50%);
+  color: #1E4E78;
+  cursor: pointer;
+}
+
+#tituloprincipal{  
+color: #23678E;
+    margin-left: 18.375rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.news-card {
+  border-radius: 0.75rem;
+  overflow: hidden;
+  background-color: #fff;
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+}
+
+.news-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 20px rgba(0,0,0,0.1);
+}
+
+.news-card img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.news-date {
+  color: #6c757d;
+  font-size: 0.9rem;
+}
+
+.news-link {
+  color: #1E4E78;
+  font-weight: 500;
+  text-decoration: none;
+}
+
+.news-link:hover {
+  text-decoration: underline;
+}

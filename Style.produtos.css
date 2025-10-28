@@ -1,0 +1,166 @@
+@import url('https://fonts.googleapis.com/css2?family=Arimo:ital,wght@0,400..700;1,400..700&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+#div000{
+    width: 100%;
+        height:8.625rem;
+            display: flex;
+                align-items: center;
+
+                        
+
+}
+
+.div111{
+    margin-left:23rem;
+        margin-bottom:1rem;
+
+}
+
+.div333{
+border: solid 1px #08A4E2;
+    color: #08A4E2;
+        
+}
+
+.div444{    
+        margin-top:2.5rem;
+               
+}
+
+.div555{
+width: 100%;
+    margin-top: 5.313rem;
+    
+
+
+}
+
+.div666{
+background-color: #1E4E78;
+    width: 100%;
+        height: 6.5rem;
+
+}
+
+
+#imgLogo1{
+margin-left: 18.313rem;
+}
+
+#imglogo2{
+    width:4.688rem;
+            height:4.688rem;
+}
+
+.h2Produtos{
+    font-size: 3rem;    
+        color:white;
+            margin-left: 18.938rem;
+                margin-right: 56.375rem;
+            
+
+}
+#asite{
+color: #DDDDDD;
+    text-decoration: none;
+
+
+}
+
+#h1Produtos{
+color: #23678E;
+
+
+
+
+}
+
+.product-card {
+  position: relative;
+  overflow: hidden;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: transform 0.4s ease, box-shadow 0.4s ease;
+  background-color: #fff;
+}
+
+.product-card img {
+  width: 100%;
+  display: block;
+  transition: transform 0.4s ease, filter 0.4s ease, opacity 0.4s ease;
+}
+
+.product-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.12);
+}
+
+.product-card:hover img {
+  transform: scale(1.05);
+  filter: brightness(0.9);
+  opacity: 0.95;
+}
+
+.card-info {
+  padding: 1rem;
+  text-align: center;
+}
+
+.card-info h4 {
+  margin-bottom: 0.5rem;
+  font-size: 1.25rem;
+  color: #222;
+}
+
+.card-info p {
+  margin-bottom: 1rem;
+  color: #666;
+  font-size: 0.95rem;
+}
+
+/* Botão "Fazer Orçamento" */
+.btn-orcamento {
+  display: inline-block;
+  background-color: #1D4E78;
+  color: #fff;
+  padding: 0.6rem 1.2rem;
+  border-radius: 5px;
+  font-size: 0.9rem;
+  text-transform: uppercase;
+  text-decoration: none;
+  font-weight: 500;
+  transition: all 0.3s ease;
+}
+
+.btn-orcamento:hover {
+  background-color: #163b5a;
+  color: #f0f0f0;
+  transform: scale(1.05);
+}
+
+#imgfundo{
+    width: 100%;
+        height: 28rem;
+
+
+}
+
+  .img-hover {
+    transition: all 0.3s ease;
+    filter: grayscale(0%);
+  }
+
+  .img-hover:hover {
+    transform: scale(1.15);
+    filter: grayscale(50%);
+    cursor: pointer;
+  }
+
+   .img-zoom {
+    transition: transform 0.3s ease; /* movimento suave */
+  }
+
+  .img-zoom:hover {
+    transform: scale(1.1); /* aumenta 20% */
+    cursor: pointer; /* mostra que é clicável */
+  }
