@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Arimo:ital,wght@0,400..700;1,400..700&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+#div000{
+    width: 100%;
+        height:8.625rem;
+            display: flex;
+                align-items: center;
+
+                        
+
+}
+
+.div111{
+    margin-left:23rem;
+        margin-bottom:1rem;
+
+}
+
+.div333{
+border: solid 1px #08A4E2;
+    color: #08A4E2;
+        
+}
+
+.div444{    
+        margin-top:2.5rem;
+               
+}
+
+#imgLogo1{
+margin-left: 18.313rem;
+}
+
+.h2Produtos{
+    font-size: 3rem;    
+        color:white;
+            margin-left: 18.938rem;
+                margin-right: 56.375rem;
+            
+
+}
+#asite{
+color: #DDDDDD;
+    text-decoration: none;
+
+
+}
+
+#imgfundo{
+    width: 100%;
+        height: 28rem;
+
+
+}
+
+.img-hover {
+    transition: all 0.3s ease;
+    filter: grayscale(0%);
+  }
+
+  .img-hover:hover {
+    transform: scale(1.15);
+    filter: grayscale(50%);
+    cursor: pointer;
+  }
+
+   .img-zoom {
+    transition: transform 0.3s ease; /* movimento suave */
+  }
+
+  .img-zoom:hover {
+    transform: scale(1.1); /* aumenta 20% */
+    cursor: pointer; /* mostra que é clicável */
+  }
+
+  .div666{
+background-color: #1E4E78;
+    width: 100%;
+        height: 6.5rem;
+
+}
