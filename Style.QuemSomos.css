@@ -94,3 +94,22 @@ background-color: #1E4E78;
     font-size: 1.3rem;
 
 }
+
+.cadsContato{
+    background-color: #0074BC;
+        width: 26.125rem;
+            height: 16.5rem;
+                border-radius: 0.6rem;
+                    margin-left: 2rem;
+}
+
+.h2Contato{
+    color: white;
+
+}
+
+.pContato{
+    color: white;
+
+    
+}
